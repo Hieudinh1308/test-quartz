@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: localhost
+  baseUrl: hieudinh1308.github.io/test-quartz
   ignorePatterns:
     - private
     - templates
